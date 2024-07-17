@@ -27,4 +27,4 @@ Run one step (Normal Run)
 
 ## Contributors
 [+ Fatih Atalay](https://github.com/atalay55) <br>
-[+ Ertuğrul Köksal](https://github.com/ertugrulkoksal)
+[+ Muaz Asilkan](https://github.com/MuazAsilkan)
