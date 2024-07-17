@@ -1,4 +1,4 @@
-# mips_combiler_16_bit_FEM
+# mips_compiler_16_bit
 A functional 16 bit MIPS CPU simulator. <br>
 
 ## - Instruction Types
